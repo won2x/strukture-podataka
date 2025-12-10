@@ -9,7 +9,7 @@
 
 
 typedef struct el {
-	char* name; //niz znakova
+	char* name; //nniz, oznacava ime svakog elementa
 	struct el* sibling;//lista na sibling elemente
 	struct el* child; //lista na child elemente
 	struct el* parent;//lista na roditelj elemente
