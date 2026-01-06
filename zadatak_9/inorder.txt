@@ -1,0 +1,4 @@
+Inorder random brojevi
+13 38 42 56 59 64 71 76 82 87 
+Inorder random brojevi replace
+38 0 230 0 56 115 517 0 163 0 
